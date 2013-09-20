@@ -1,4 +1,4 @@
 Histogram
 =========
 
-Histogram (word counter)
+Histogram (word counter) project from CodeAcademy
